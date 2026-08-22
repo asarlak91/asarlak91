@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Ahmad (Hamid) Sarlak 👋
+
+I am a Ph.D. Candidate in Computer Science at Clemson University, specializing in AI-driven, resource-efficient methods for connected autonomous systems. My research focuses on bridging foundation models, information theory, and next-generation wireless networks to build intelligent autonomous infrastructure.
+
+### 🔬 Research Focus
+* **Large Language Models:** Reliability-aware prompt selection, DPP optimization, and token pruning.
+* **Autonomous Systems:** Cooperative perception, multi-agent sensor fusion, and V2X communication.
+* **Network Optimization:** Semantic scheduling, resource allocation, and edge AI in 5G/6G environments.
+
+### 🛠️ Tech Stack
+* **Languages:** Python, C++, MATLAB
+* **Machine Learning:** PyTorch, Hugging Face, YOLOv8, Scikit-learn
+* **Networking & Simulation:** NS-3, DSRC, LTE-V2X
+
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmad-hamid-sarlak-14b26b1b9/) or check out my [Personal Portfolio](https://sites.google.com/view/ahmad-hamid-sarlak/home).
